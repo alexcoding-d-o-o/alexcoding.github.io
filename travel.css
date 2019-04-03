@@ -1,0 +1,57 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+.landing-text {
+	position: absolute;
+	top: 30%;
+	left: 35%;
+	color: white;
+}
+#fixed {
+	background-image: url("img/fixed.png");
+	background: no-repeat center center fixed;
+	display: table;
+	height: 60%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+
+}
+.padding {
+	padding: 10px 10px;
+}
+.navbar{
+	padding: 1% 0;
+	font-size: 18px;
+}
+.bg-dark {
+	opacity: 0.8;
+}
+#Naslov {
+	font-size: 100px;
+	text-shadow: 2px 3px black;
+}
+#Naslov2 {
+	font-size: 30px;
+	text-shadow: 2px 3px black;
+}
+img {
+	height: 400px;
+	padding: 5px;
+}
+#contact {
+    background: url("img/fixed.png") no-repeat center;
+}
+#home {
+	background: url("img/landing.png") no-repeat center center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+
+}
+.bg {
+	background-color: ;
+}
